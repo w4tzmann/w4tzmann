@@ -2,7 +2,7 @@
 
 :house:I'm from Bavaria (Germany)
 
-:heart: I love OpenSource, automatization, scripting (specially powershell
+:heart: I love OpenSource, automatization, scripting (specially powershell)
 
 :fire: Always open and interested in learning new things
 
